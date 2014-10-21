@@ -44,4 +44,4 @@ def Task5():
 def Task6():
     for pounds in range(1,21):
         kilogrames = pounds * 0.453592
-        print("{0:>2} pounds : {1:>2}kg".format (pounds, kilogrames)) 
+        print("{0:>2} pounds : {1:>7} kg".format (pounds, kilogrames)) 
